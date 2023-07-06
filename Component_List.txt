@@ -1,0 +1,5 @@
+Components Used:-
+1) Arduino UNO R3
+2) ESP32 WROOM32
+3) Push Button
+4) Jumper Wires
